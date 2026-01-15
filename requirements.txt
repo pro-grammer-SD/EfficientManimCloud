@@ -1,0 +1,5 @@
+streamlit
+manim
+google-genai
+graphviz
+numpy
