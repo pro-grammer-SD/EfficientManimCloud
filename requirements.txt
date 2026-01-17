@@ -1,5 +1,6 @@
 streamlit
 manim
-google-genai
-graphviz
+pydub
+requests
 numpy
+google-genai
